@@ -16,12 +16,19 @@
 .jumbotron{
     padding: 70px 30px 70px 30px;
     margin: 0px auto;
-    background: #e26d1f;
+    background: #e7782e;
     color: floralwhite;
 }
 .address{
     font-size: 80%;
     margin: 0px auto;
     color: #0f0f0f;
+}
+.body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+.navbar-dark{
+    background-color: #c95000;
 }
 
